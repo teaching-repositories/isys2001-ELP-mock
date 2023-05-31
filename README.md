@@ -19,9 +19,6 @@ The assessment is designed to evaluate your understanding and application of the
 
 5. Once you have completed your solutions, ensure that your code is well-documented and follows good coding practices.
 
-6. Commit your code changes and push them to your forked repository.
-
-7. Submit your completed assessment by providing the link to your forked repository.
 
 ## Staff Answers
 
