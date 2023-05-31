@@ -22,7 +22,7 @@ The assessment is designed to evaluate your understanding and application of the
 
 ## Staff Answers
 
-In the `staff_answers` folder of this repository, you will find the staff's solutions to the sample questions. The staff answers are provided to help you compare your solutions and learn from them. However, please note that the staff answers are not the only correct solutions, and alternative solutions may exist.
+In the `staff_answer` folder of this repository, you will find the staff's solutions to the sample questions. The staff answers are provided to help you compare your solutions and learn from them. However, please note that the staff answers are not the only correct solutions, and alternative solutions may exist.
 
 Please refrain from directly copying the staff answers. It is important to understand the concepts and implement your own solutions to demonstrate your understanding.
 
