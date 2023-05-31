@@ -13,7 +13,7 @@ The assessment is designed to evaluate your understanding and application of the
 
 2. Once you have cloned the repository, navigate to the `assessment` folder. This folder contains the sample questions for the assessment.
 
-3. Open the `assessment_questions.md` file to view the questions.
+3. Open the `assessment_questions.ipynb` file to view the questions.
 
 4. Implement your solutions for each question in the programming language specified in the question.
 
